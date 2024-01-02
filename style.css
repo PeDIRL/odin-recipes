@@ -1,0 +1,16 @@
+.ingredients {
+    background-color: aqua;
+}
+
+.steps {
+    color: red;
+}
+
+.default {
+    background-color: black;
+    color: white;
+}
+
+.links {
+    color: aquamarine;
+}
